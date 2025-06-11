@@ -1,19 +1,21 @@
-/*  Móvel: 375px
-- Desktop: 1440px
+body {
+    background-color: hsl(0, 0%, 8%) ;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
 
-## Cores
+main {
+    /* display: flex;
+    flex-direction: column;
+    justify-self: center;
+    align-content: center;
+    justify-content: center; */
+    background-color: hsl(0, 0%, 12%) ;
+    /* width: 40%;
+    height: 64vh; */
+    border-radius: 10px;
+    width: 40%;
+}
 
-- Verde: hsl(75, 94%, 57%)
-
-- Branco: hsl(0, 0%, 100%)
-
-- Cinza 700: hsl(0, 0%, 20%)
-- Cinza 800: hsl(0, 0%, 12%)
-- Cinza 900: hsl(0, 0%, 8%)
-
-- Tamanho da fonte (parágrafo): 14px
-
-### Fonte
-
-- Família: [Inter](https://fonts.google.com/specimen/Inter)
-- Espessuras: 400, 600, 700 */
