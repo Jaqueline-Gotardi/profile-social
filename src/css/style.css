@@ -4,6 +4,7 @@ body {
     display: flex;
     justify-content: center; 
     align-items: center; 
+    flex-direction: column;
 }
 
 main {
@@ -74,4 +75,13 @@ li a {
 li a:hover {
     color: hsl(0, 0%, 12%);
     background-color: hsl(75, 94%, 57%);
+}
+
+footer {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    background: hsl(0, 1%, 54%);
+    text-align: center;
+    padding: 10px 0;
 }
