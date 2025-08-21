@@ -6,7 +6,7 @@ A proposta era recriar o design fornecido em imagem, praticando **HTML5, CSS3 e 
 ---
 
 ## 🖼️ Prévia da Página
-![preview da tela](src/imagens/tela-responsive)  
+![preview da tela](src/imagens/tela-responsive.png) 
 
 ---
 
